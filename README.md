@@ -1,4 +1,4 @@
 # Git-try
 this is my 1st repo
-author - naman rangari
+author - naman 
 <br>
